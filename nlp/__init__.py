@@ -4,7 +4,8 @@
 >>> nlp.tokenize('Walking on sunshine!')
 ['walk', 'sunshine']
 >>> [nlp.stem(word) for word in ['works', 'working', 'work']]
-['work', 'work', 'work']
+['work', 'work', 'work'].......
+""
 """
 
 
